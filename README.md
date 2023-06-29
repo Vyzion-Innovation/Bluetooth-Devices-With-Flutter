@@ -1,4 +1,4 @@
-![IMG_0818](https://github.com/Vyzion-Innovation/Bluetooth-Devices-With-Flutter/assets/11502601/6bc36bee-46fa-49cc-aa24-91262005ca4a)# Near by Bluetooth devices list with Flutter
+# Near by Bluetooth devices list with Flutter
 
 A new Flutter project.
 
