@@ -1,4 +1,4 @@
-# bluetooth_demo
+# Near by Bluetooth devices list with Flutter
 
 A new Flutter project.
 
