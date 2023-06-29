@@ -14,5 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+Android screenshot
 ![image](https://github.com/Vyzion-Innovation/Bluetooth-Devices-With-Flutter/assets/11502601/82610e13-d54f-4746-8c0e-00c0a13dcc2f)
+IOS Screenshot
 ![IMG_0841](https://github.com/Vyzion-Innovation/Bluetooth-Devices-With-Flutter/assets/11502601/785ef892-a144-4dac-8c57-7b2d5500200d)
